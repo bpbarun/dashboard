@@ -1,0 +1,14 @@
+body {
+    background: #add6e5;
+    min-height: 100vh;
+}
+
+.court-title {
+    background-color: #0e3a63;
+    color: white !important;
+}
+
+.case-upcoming {
+    background-color: #468faf;
+    color: white !important;
+}
